@@ -1,0 +1,27 @@
+.header_style{
+    background-image: url("../image/Header.jpg");
+    margin:auto;
+    padding-bottom: 100px;
+}
+
+.header_style h1,p{
+    color: white;
+    font-size: 38px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.header_style p{
+    font-weight: normal;
+    font-size: 25px;
+}
+
+.card{
+    margin: 200px;
+}
+
+#bg{
+    background-image: url("../image/bg login.jpg");
+    background-size: auto;
+    margin: auto;
+}
